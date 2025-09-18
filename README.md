@@ -1,4 +1,6 @@
-# COMP6212 Coursework: Analytical Summary
+# COMP6212 Coursework: Summary
+
+This summarises a Master's-level Computational Finance group project (COMP6212) requiring from-scratch implementation of ARIMA, statistical arbitrage, and portfolio optimization models in Python, using only low-level libraries. The work involved rigorous application to real market data, strict avoidance of look-ahead bias, and full reproducibility. This submission was awarded a First-Class grade.
 
 ## 1. Time Series Analysis with ARIMA
 
